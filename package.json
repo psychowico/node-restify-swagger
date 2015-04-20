@@ -27,10 +27,9 @@
   "main": "lib/index",
   "readmeFilename": "README.md",
   "dependencies": {
-    "underscore": "~1.7.0",
-    "underscore.string": "~2.3.3",
-    "node-restify-validation": "~0.1.0",
-    "lingo": "0.0.5"
+    "lingo": "0.0.5",
+    "lodash": "^3.7.0",
+    "node-restify-validation": "~1.0.3"
   },
   "devDependencies": {
     "restify": "2.8.3",
